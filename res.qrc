@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>originalbackground.jpg</file>
+        <file>ground2.jpg</file>
+        <file>mus1.mp3</file>
+        <file>tower11.png</file>
+        <file>monster1.png</file>
+        <file>tower33.png</file>
+        <file>tower22.png</file>
+        <file>coin.wav</file>
+        <file>death.wav</file>
+        <file>gameover.jpg</file>
+        <file>over.wav</file>
+        <file>monster2.png</file>
+    </qresource>
+</RCC>
